@@ -46,8 +46,6 @@ myenv\Scripts\activate
 
 --- 
 
- ## 🌐 Live Demo
-
 ## 🔗 Live Demo
 
 👉 [Try the Mortgage Calculator Live](https://mortgage-calculator-exsvv77vkopcmt2tb5veyt.streamlit.app/)
