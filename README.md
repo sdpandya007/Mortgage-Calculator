@@ -20,13 +20,13 @@ This is a simple mortgage calculator built using **Streamlit** with custom **CSS
    cd mortgage-calculator-streamlit
    ```
 
-2. create virtual environment in folder's cmd:
-  ```bash
-  python -m venv myenv
-  ```
+2. Create virtual environment in folder's cmd:
+   ```bash
+    python -m venv myenv
+    ```
 
 3. Activate the virtual environment:
-  ```bash
+   ```bash
   myenv\Scripts\activate
   ```
  
