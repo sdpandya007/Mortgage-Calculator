@@ -27,8 +27,8 @@ This is a simple mortgage calculator built using **Streamlit** with custom **CSS
 
 3. Activate the virtual environment:
    ```bash
-  myenv\Scripts\activate
-  ```
+   myenv\Scripts\activate
+   ```
  
 4. Install dependencies:
 
