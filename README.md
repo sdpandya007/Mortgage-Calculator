@@ -15,7 +15,6 @@ This is a simple mortgage calculator built using **Streamlit** with custom **CSS
 ## 📦 Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/sdpandya007/Mortgage-Calculator.git
    cd mortgage-calculator-streamlit
