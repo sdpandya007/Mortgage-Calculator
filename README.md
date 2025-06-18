@@ -46,7 +46,7 @@ This is a simple mortgage calculator built using **Streamlit** with custom **CSS
 --- 
 
 ## 🚀 Live Demo
-👉 [Try the Mortgage Calculator Live](https://mortgage-calculator-exsvv77vkopcmt2tb5veyt.streamlit.app/)
+👉 (https://mortgage-calculator-exsvv77vkopcmt2tb5veyt.streamlit.app/)
 
 ---  
 
